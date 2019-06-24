@@ -371,7 +371,7 @@ header .logo {
 
 /* --- Header slider --- */
 #header-wrapper.header-slider {
-	background: #444 url(../img/bg/bg-1.jpg) no-repeat center center fixed;
+	background: #444 url(../img/bg/uta-1.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1012,7 +1012,7 @@ div.cform-response-output {
 ============================================================ */
 
 footer {
-	background: #2b2b2b;
+	background: #000000;
 	text-align: center;
 	color: #ddd;
 	padding:50px 0 50px;
